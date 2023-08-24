@@ -17,7 +17,7 @@ simple calendar application that allows a user to save events for each hour of a
 
 ## Deployment link
 
-https://ayrh1.github.io/Quiz/
+https://ayrh1.github.io/Work-Day-Scheduler/
 
 ## Credits
 
